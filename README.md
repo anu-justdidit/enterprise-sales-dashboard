@@ -14,7 +14,6 @@ Managers see ONLY their region's data - no cross-region access.
 
 🛠️ **Tech Stack:** Power BI, DAX, Power Query, GitHub
 
-📁 **GitHub:** [Link to repository]
 
 #PowerBI #DataAnalytics #RLS #Dashboard #DataVisualization
 Resume Bullet Points
